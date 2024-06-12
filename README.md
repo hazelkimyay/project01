@@ -89,8 +89,6 @@ Top Keywords: **['정원', '학과', '대학', '수도권', '증원']** 키워�
 
 
 ```
-### 웹페이지 UIUX 구현 코드
-
 import streamlit as st
 
 # Set the page configuration
